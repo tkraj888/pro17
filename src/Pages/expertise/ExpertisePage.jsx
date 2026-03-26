@@ -5,6 +5,7 @@ import usePageTitle from "../../hooks/usePageTitle";
 import { Leaf, Building, Droplets, Wrench, ArrowRight, CheckCircle } from "lucide-react";
 import { FaTree, FaSeedling, FaCity } from "react-icons/fa";
 
+
 // Import your images
 import heroBg from "../../assets/b1.jpeg"; // You'll need a good hero image
 import horticulture from "../../assets/Holticulture.jpg";
