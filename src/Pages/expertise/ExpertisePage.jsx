@@ -10,7 +10,7 @@ import heroBg from "../../assets/b1.jpeg"; // You'll need a good hero image
 import horticulture from "../../assets/Holticulture.jpg";
 import architecture from "../../assets/Landscape.jpg";
 import development from "../../assets/Landscape&Development.jpg";
-import verticalGarden from "../../assets/VerticalGarden.jpg";
+import verticalGarden from "../../assets/verticalGarden.jpg";
 import corporateGreen from "../../assets/CorporateGreenSolution.jpg";
 import gardenDesign from "../../assets/garderDesign.jpg";
 import grass from "../../assets/GrassPlantation.jpg";
