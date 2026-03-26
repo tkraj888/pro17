@@ -8,7 +8,7 @@ import LandscapeDevelopmentImage from "../../assets/Landscape&Development.jpg";
 import VerticalGarden from "../../assets/terracegarden.jpg";
 import CorporateGreenSolution from "../../assets/CorporateGreenSolution.jpg";
 import garderDesign from "../../assets/garderDesign.jpg";
-import GrassPlantation from "../../assets/GrassPlantation.jpg";
+import GrassPlantation from "../../assets/grassplantation.jpg";
 import TeraceGarden from "../../assets/TeraceGarden.jpg";
 import KitchenGarden from "../../assets/b1.jpeg";
 
