@@ -14,7 +14,7 @@ import development from "../../assets/Landscape&Development.jpg";
 import verticalGarden from "../../assets/verticalGarden.jpg";
 import corporateGreen from "../../assets/CorporateGreenSolution.jpg";
 import gardenDesign from "../../assets/garderDesign.jpg";
-import grass from "../../assets/grassPlantation.jpg";
+import grass from "../../assets/grassplantation.jpg";
 import terrace from "../../assets/TeraceGarden.jpg";
 import kitchen from "../../assets/KitchenGarden .jpg";
 import infrastructure from "../../assets/Infrastructure.jpg";
