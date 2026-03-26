@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Loader from "./components/Loader/Loader";
+import Loader from "./Loader";
 
 const PageLoaderWrapper = ({ children }) => {
   const [loading, setLoading] = useState(true);
