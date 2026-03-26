@@ -5,7 +5,7 @@ import OurApproach from "../../Pages/landing/OurApproach";
 import OurProjects from "../../Pages/ourprojects/OurProjects";
 import ContactPage from "../../components/Contact/ContactPage";
 import CareersWithUs from "../../components/carrers/CareersPage";
-import PageLoaderWrapper from "../../components/loader/PageLoaderWrapper";
+import PageLoaderWrapper from "../../components/Loader/PageLoaderWrapper";
 export function MainRoutes() {
   return (
     <>

@@ -1,6 +1,6 @@
 // src/components/routes/AboutRoutes.jsx
 import { Route } from "react-router-dom";
-import PageLoaderWrapper from "../../components/loader/PageLoaderWrapper";
+import PageLoaderWrapper from "../../components/Loader/PageLoaderWrapper";
 import HistoryPage from "../../Pages/about/HistoryPage";
 import VisionMission from "../../Pages/landing/VisionMission";
 import ProfessionalTeam from "../../Pages/landing/ProfessionalTeam";

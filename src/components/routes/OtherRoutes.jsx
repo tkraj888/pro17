@@ -1,6 +1,6 @@
 // src/components/routes/OtherRoutes.jsx
 import { Route } from "react-router-dom";
-import PageLoaderWrapper from "../../components/loader/PageLoaderWrapper";
+import PageLoaderWrapper from "../../components/Loader/PageLoaderWrapper";
 import CustomerServiceGuide from "../../Pages/customerGuide/CustomerServiceGuide";
 import NRIPropertyInvestmentGuide from "../../Pages/NRIPropertyInvestmentGuide/NRIPropertyInvestmentGuide";
 import InvestorRelations from "../../Pages/InvestorRelations/InvestorRelations";
