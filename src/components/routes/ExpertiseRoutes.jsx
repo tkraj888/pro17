@@ -1,6 +1,6 @@
 // src/components/routes/ExpertiseRoutes.jsx
 import { Route } from "react-router-dom";
-import PageLoaderWrapper from "../../components/loader/PageLoaderWrapper";
+import PageLoaderWrapper from "../../components/Loader/PageLoaderWrapper";
 import ExpertisePage from "../../Pages/expertise/ExpertisePage";
 import Rail from "../../Pages/OurExpertisePages/Rail";
 import InfrastructurePage from "../../Pages/expertise/InfrastructurePage";
