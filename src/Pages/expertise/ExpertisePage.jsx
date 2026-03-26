@@ -8,7 +8,7 @@ import { FaTree, FaSeedling, FaCity } from "react-icons/fa";
 // Import your images
 import heroBg from "../../assets/b1.jpeg"; // You'll need a good hero image
 import horticulture from "../../assets/Holticulture.jpg";
-import architecture from "../../assets/landscape.jpg";
+import architecture from "../../assets/Landscape.jpg";
 import development from "../../assets/Landscape&Development.jpg";
 import verticalGarden from "../../assets/VerticalGarden.jpg";
 import corporateGreen from "../../assets/CorporateGreenSolution.jpg";
